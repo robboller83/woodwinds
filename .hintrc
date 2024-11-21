@@ -1,0 +1,10 @@
+{
+  "extends": [
+    "development"
+  ],
+  "hints": [
+      "html-checker:error",
+      "@myOrg/webhint-hint-clever-custom-audit",
+        "webhint-hint-another-example1"
+  ] 
+}

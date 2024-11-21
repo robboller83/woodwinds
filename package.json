@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "@hint/hint-html-checker": "^3.3.27"
+  },
+  "dependencies": {
+    "npm-registry-fetch": "^18.0.2"
+  }
+}
